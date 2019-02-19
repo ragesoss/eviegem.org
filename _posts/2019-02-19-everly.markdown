@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Everly"
+date:   2019-02-19 11:47:05 -0800
+---
+Hi my name is Everly, you can call me Evie. I want to practice ruby more, so I can improve my zelda like game! i am not very far on my game but when I finish it will be very fun and interesting! I can't wait to start programing!

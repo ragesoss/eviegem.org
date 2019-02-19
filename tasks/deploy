@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rsync -avr --rsh='ssh -p22' --delete-after --delete-excluded _site/ pi@rpi3:/var/www/eviegem
